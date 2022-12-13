@@ -1,6 +1,9 @@
 <template>
   <div class="container">
     <h3>Letnia kolonia</h3>
+    <button class="btn mr-2 mb-2 btn-primary" type="button">
+        <span class="btn-text">Primary</span>
+    </button>
   </div>
 </template>
 
@@ -12,6 +15,7 @@ export default {
   }
 }
 </script>
+
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
